@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Assessment-01: Code Refactor
 
 ## Challenges in This Course
 
