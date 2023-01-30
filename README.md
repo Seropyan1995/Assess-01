@@ -1,7 +1,7 @@
 # Assessment-01: Code Refactor
 
 ## Description
-implenting concepts of this module, assessed code to correct it and make it more practical to the user and coder, using:
+Implenting concepts of this module, assessed code to correct it and make it more practical to the user and coder, using:
 * Semantic elements to properly structure the page
 * knowledge of html elements to add alt atr to images and logos
 * propper CSS structure to consolidate certain styles that should be together
